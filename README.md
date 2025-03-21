@@ -3,11 +3,11 @@
 
 ---
 
-<h3 align="center">**Contact** me: <span style="color: cyan;">Samuel.Kujala88@gmail.com</span></h3>
+<h3 align="center"><strong>sdds</strong>Contact me: Samuel.Kujala88@gmail.com</h3>
 
 ---
 
-<h3 align="center" style="color: lime;">🛠️ Languages and Tools:</h3>
+<h3 align="center" style="color: lime;"> Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
