@@ -24,7 +24,7 @@
   </a>
 </p>
 &nbsp;
-WPF_laskin projekti: https://github.com/SamuelKujala/Laskin/tree/main
+WPF Calculator: https://github.com/SamuelKujala/Laskin/tree/main
 &nbsp;
 <p align="center">
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelkujala&show_icons=true&locale=en&layout=compact" alt="samuelkujala" /></p>
