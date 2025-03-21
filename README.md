@@ -5,7 +5,7 @@
 
 <h3 align="center">Contact me: Samuel.Kujala88@gmail.com</h3>
 
----
+&nbsp;
 
 <h3 align="center"> Languages and Tools:</h3>
 <p align="center">
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-
+&nbsp;
 <p align="center">
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelkujala&show_icons=true&locale=en&layout=compact" alt="samuelkujala" /></p>
 </p>
