@@ -31,7 +31,7 @@
 
 ---
 
-<h3 align="center" style="color: violet;">📊 GitHub Stats:</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelkujala&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelkujala&show_icons=true&locale=en&layout=compact" alt="samuelkujala" /></p>
 </p>
