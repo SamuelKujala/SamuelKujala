@@ -2,8 +2,10 @@
 <h3 align="center">Beginner Application Developer from Jyväskylä</h3>
 
 ---
+<p align="center">
+  📧 **Email:** [Samuel.Kujala88@gmail.com](mailto:Samuel.Kujala88@gmail.com)
+</p>
 
-📧 **Email:** [Samuel.Kujala88@gmail.com](mailto:Samuel.Kujala88@gmail.com)
 
 ---
 
