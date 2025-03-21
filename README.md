@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Samuel 👋</h1>
 <h3 align="center">Beginner Application Developer from Jyväskylä</h3>
 
-&nbsp;
-
 <h3 align="center">Contact me: Samuel.Kujala88@gmail.com</h3>
 
 &nbsp;
