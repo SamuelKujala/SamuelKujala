@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm <strong><font color="red">Samuel</font></strong></h1>
+<h1 align="center">Hi I'm <strong style="color: red;">Samuel</strong></h1>
 <h3 align="center">Beginner Application Developer from Jyväskylä</h3>
 
 <h3 align="center"><strong>Contact me:</strong> Samuel.Kujala88@gmail.com</h3>
