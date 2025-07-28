@@ -17,7 +17,6 @@
 
 ### 💡 Skills
 
----
 
 #### 🧠 Languages & Syntax  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
@@ -48,20 +47,6 @@
 
 
 
-
----
-
-### 🔧 Projects
-
-- 🧮 **WPF Calculator**  
-  Simple desktop calculator made with C# and WPF  
-  🔗 [View Project](https://github.com/SamuelKujala/Laskin/tree/main)
-
-<!-- Lisää uusia projekteja näin:
-- 📘 **Project Name**  
-  Lyhyt kuvaus projektista  
-  🔗 [View Project](linkki)
--->
 
 ---
 
