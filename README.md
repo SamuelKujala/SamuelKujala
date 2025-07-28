@@ -6,8 +6,11 @@
   I’m a beginner application development student, currently at the start of my studies. However, I’m already learning a lot and steadily expanding my skills, especially in backend development and cybersecurity.
 </p>
 <p align="center">
-[![Gmail](https://img.shields.io/badge/Gmail-000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Samuel.Kujala88@gmail.com)
+  <a href="mailto:Samuel.Kujala88@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
 
 
 ---
