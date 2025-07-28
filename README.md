@@ -1,11 +1,14 @@
 <h1 align="center">Hi, I'm Samuel 👋</h1>
-<h3 align="center">💻 Beginner Application Developer from Jyväskylä, Finland</h3>
 
-<p align="center">
-  🌱 I’m currently learning C#, Python and Cyber Security<br/>
-  🎯 I’m interested in desktop apps, databases and user interfaces.<br/>
-  📫 How to reach me: <a href="mailto:Samuel.Kujala88@gmail.com">Samuel.Kujala88@gmail.com</a>
+<h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> About Me</h3>
+
+<p align="left">
+  I’m a beginner application development student, currently at the start of my studies. However, I’m already learning a lot and steadily expanding my skills, especially in backend development and cybersecurity.
 </p>
+<p align="center">
+[![Gmail](https://img.shields.io/badge/Gmail-000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Samuel.Kujala88@gmail.com)
+</p>
+
 
 ---
 
