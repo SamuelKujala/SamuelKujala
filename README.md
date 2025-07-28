@@ -11,14 +11,36 @@
 
 ### 💡 Skills
 
-**Languages & Syntax:**
+---
 
+#### 🧠 Languages & Syntax  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+&nbsp;
+
+#### 🎨 Front-End Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+&nbsp;
+
+#### 🖥️ Back-End Development  
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+&nbsp;
+
+#### 🧪 Testing  
+![NUnit](https://img.shields.io/badge/NUnit-800000.svg?style=for-the-badge&logo=nunit&logoColor=white)
+![MSTest](https://img.shields.io/badge/MSTest-003B6F.svg?style=for-the-badge&logo=windows&logoColor=white)  
+&nbsp;
+
+#### 🗄️ Database Management  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+&nbsp;
+
+#### 💻 Development Environments  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 
 ---
