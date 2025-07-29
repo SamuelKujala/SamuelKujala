@@ -1,21 +1,16 @@
 <h1 align="center">Hi, I'm Samuel 👋</h1>
-<h3 align="center">💻 Junior Software Developer & ICT Student from Jyväskylä</h3>
+<h3 align="center">💻 Junior Software Developer & ICT Student from Jyväskylä</h3>&nbsp;
 
-### About Me
-  I’m a beginner application development student, currently at the start of my studies. However, I’m already learning a lot and steadily expanding my skills, especially in backend development and cybersecurity.
+### <em>About Me</em>
+![AnimatedLine](https://github.com/user-attachments/assets/6f67da21-fa96-48a9-8a67-0eed4438a165)
 
-<p align="center">
-  <a href="mailto:Samuel.Kujala88@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;I’m a beginner application development student, currently at the start of my studies. However, I’m already learning a lot and steadily expanding my skills, especially in backend development and cybersecurity.
 
-
-
----
+&nbsp;
 
 ### 💡 Skills
 
+![AnimatedLine](https://github.com/user-attachments/assets/6f67da21-fa96-48a9-8a67-0eed4438a165)
 
 #### 🧠 Languages & Syntax  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
@@ -44,12 +39,11 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
-
----
+&nbsp;
 
 ### 📊 GitHub Stats
+
+![AnimatedLine](https://github.com/user-attachments/assets/6f67da21-fa96-48a9-8a67-0eed4438a165)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelKujala&show_icons=true&theme=radical" alt="Samuel's GitHub Stats" />
 </p>
